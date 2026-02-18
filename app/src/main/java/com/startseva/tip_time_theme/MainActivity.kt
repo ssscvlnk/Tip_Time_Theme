@@ -164,6 +164,7 @@ fun EditNumberField(
         keyboardOptions = keyboardOptions
     )
 }
+
 @Composable
 fun RoundTheTipRow(
     roundUp: Boolean,
